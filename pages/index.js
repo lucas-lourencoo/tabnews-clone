@@ -1,3 +1,3 @@
 export default function Home(){
-    return <h1>Amor, eu amo você!</h1>
+    return <h1>Oi amor, passando pra dizer que eu amo você!</h1>
 }
