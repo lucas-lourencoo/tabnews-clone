@@ -1,0 +1,19 @@
+{
+  "name": "tabnews-clone",
+  "description": "Este é uma cópia do projeto https://tabnews.com.br feita na aula do https://curso.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
