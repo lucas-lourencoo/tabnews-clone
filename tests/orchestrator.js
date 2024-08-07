@@ -17,8 +17,11 @@ async function waitForAllServices() {
       }
 
       const responseBody = await response.json();
+      return responseBody;
     }
   }
 }
 
-export default { waitForAllServices };
+const orchestrator = { waitForAllServices };
+
+export default orchestrator;
